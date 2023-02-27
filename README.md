@@ -1,15 +1,11 @@
 # 1. Title : WSTF Frontend Hackathon 
 
-## 2. Technology stack/libraries used
+## 2. TecH Stack used
 
 - ReactJs
-- HTML/CSS
-- Google Font
-- SVG
+- Css
 
-## 3. Watch the Project Here (Deploy on Netlify) -
-
-### Live Link :- https://amarjeet-wstf-frontend-hackathon.netlify.app/
+## 3. hosted Link  -
 
 ### 4. Approaching task
 
@@ -18,10 +14,11 @@
   - Break down project UI into smaller, reusable components.
   - Identify the components that will have state and which ones will be stateless.
   - Write code for each component, using JSX syntax to describe how they should look and behave.
-  - Once my application is ready, deploy it to a hosting platform "Netlify".
+  
   - Finished.
   
-## Video link (5-10 min) explaining demo of the project :- https://drive.google.com/file/d/18ZFgGz4NZzLSyBxX-5uexrrDseM6jR2Z/view?usp=sharing
+## Video link (5-10 min) explaining demo of the project :- 
+
 
 # 5. Steps to run/build the project -
 
