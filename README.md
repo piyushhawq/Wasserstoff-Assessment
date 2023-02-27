@@ -5,7 +5,7 @@
 - ReactJs
 - Css
 
-## 3. hosted Link  - https://piyushhawq.github.io/live-Wasserstoff/
+## 3. hosted Link  - https://wasserstoff-assesment-piyush.netlify.app/
 
 ### 4. Approaching task
 
