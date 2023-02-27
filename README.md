@@ -17,7 +17,7 @@
   
   - Finished.
   
-## Video link (5-10 min) explaining demo of the project :- 
+## Video link  :- 
 
 
 # 5. Steps to run/build the project -
